@@ -46,4 +46,34 @@
 
 
 
-3. 
+3. Air terjun yang mempunyai debit  80 m3/detik. berapa banyak air yang dipindahkan air terjun trsebut dalam 10 menit?
+
+
+- FLOWCHART DI FLOWGORITHM
+
+![Annotation 2021-10-29 075756](https://user-images.githubusercontent.com/92988781/139457421-78b3e85e-31cf-4adb-a451-68deb4ed09e5.png)
+
+
+- INPUT OUTPUT
+
+![Annotation 2021-10-29 074024](https://user-images.githubusercontent.com/92988781/139457509-8f73ffb1-503f-4f9d-973c-09a1b3c52a9d.png)
+
+
+
+- VIA VSCODE
+
+![Annotation 2021-10-29 075426](https://user-images.githubusercontent.com/92988781/139457627-b4b2bc0b-e9d2-4d14-94a1-3c271d3ec379.png)
+
+
+- INPUT OUTPUT
+
+![Annotation 2021-10-29 075450](https://user-images.githubusercontent.com/92988781/139457748-b9a9a907-2ea3-4614-a3c4-f8759891e058.png)
+
+
+
+
+
+
+
+
+

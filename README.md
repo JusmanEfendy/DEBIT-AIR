@@ -22,4 +22,28 @@
 
 
 
-2.
+2. Kubangan kerbau mempunyai kubangan 40 m3 diisi dengan air, waktu yang diperlukan untuk mengisinya yaitu 4 jam. berapa liter/detik debit air yang keluar trsebut?
+
+- FLOWCHART DI FLOWGORITHM
+
+![Annotation 2021-10-29 061953](https://user-images.githubusercontent.com/92988781/139449197-cf9beb17-dff3-4bd2-9aae-842ac551375e.png)
+
+
+- INPUT OUTPUT
+
+![Annotation 2021-10-29 062054](https://user-images.githubusercontent.com/92988781/139449300-6c90dbbc-4759-4f92-9fce-1b21628a1b5e.png)
+
+
+
+- VIA VSCODE
+
+![Annotation 2021-10-29 070045](https://user-images.githubusercontent.com/92988781/139449360-ee68c7a4-2e0d-45ba-8e12-fb3b1ab01a9a.png)
+
+
+- INPUT OUTPUT
+
+![Annotation 2021-10-29 070106](https://user-images.githubusercontent.com/92988781/139449436-ae04df5f-cbe2-4bdb-bbe2-05a8fd3bab12.png)
+
+
+
+3. 

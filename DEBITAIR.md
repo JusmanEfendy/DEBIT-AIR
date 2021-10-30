@@ -5,20 +5,35 @@
 
 - FLOWCHART DI FLOWGORITHM
 
-![Annotation 2021-10-29 044528](https://user-images.githubusercontent.com/92988781/139434496-3df6a60e-acaa-431e-873a-c01c2e27a08d.png)
+![Annotation 2021-10-30 071613](https://user-images.githubusercontent.com/92988781/139537192-acb1b601-7771-4e93-b591-20634d6759a3.png)
+
+
 
 - INPUT OUTPUT
 
-![Annotation 2021-10-29 051940](https://user-images.githubusercontent.com/92988781/139434591-08ed2c55-2213-489d-8e29-9914cd921730.png)
+![Annotation 2021-10-30 071654](https://user-images.githubusercontent.com/92988781/139537211-c2d86d2b-5756-4c82-8f11-979235735548.png)
+
+
+- KONSEP LAINNYA ( INPUTAN DARI USER )
+
+![Screenshot (53)](https://user-images.githubusercontent.com/92988781/139537318-09869e21-c337-4ef3-a423-7645d98755a1.png)
+
 
 
 - VIA VSCODE
 
-![Annotation 2021-10-29 051804](https://user-images.githubusercontent.com/92988781/139434752-c6143037-8d49-4191-94f9-f57c721a4270.png)
+![Annotation 2021-10-30 072145](https://user-images.githubusercontent.com/92988781/139537243-07b12099-507e-4ffb-a9c3-ebdfb7410902.png)
+
 
 - INPUT OUTPUT
 
-![Annotation 2021-10-29 051828](https://user-images.githubusercontent.com/92988781/139434826-856819ce-0332-4595-8eb8-4d37f276b165.png)
+![Annotation 2021-10-30 072201](https://user-images.githubusercontent.com/92988781/139537265-13ca3c02-297b-4fad-8935-8172a2ec2370.png)
+
+
+- KONSEP LAINNYA ( INPUTAN DARI USER )
+
+![Screenshot (54)](https://user-images.githubusercontent.com/92988781/139537361-c70b02c6-edef-45e7-b7e3-9fb7ee9adcd0.png)
+
 
 
 
